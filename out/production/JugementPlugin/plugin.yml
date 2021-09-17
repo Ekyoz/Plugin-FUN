@@ -1,0 +1,38 @@
+name: Jugement
+version: 1.0
+author: Ekyoz
+main: fr.ekyoz.jugement.Main
+commands:
+  test:
+    description: test
+    permission: jugement.test.use
+  alert:
+    description: Brotcast custom
+    permission: jugement.bc.use
+  tribunal:
+    description: new tribunal
+    permission: jugement.tb.use
+  day:
+    description: time set day
+    permission: jugement.day.use
+  night:
+    description: time set night
+    permission: jugement.night.use
+  wclear:
+    description: weather clear
+    permission: jugement.weatherclear.use
+  wrain:
+    description: weather rain
+    permission: jugement.weatherrain.use
+  wthunder:
+    description: weather thunder
+    permission: jugement.weatherthunder.use
+  setTribunal:
+    description: set tribunal
+    permission: jugement.tb.use
+  prison:
+    description: TP player to prison
+    permission: jugement.ps.use
+  sortie:
+    description: sortie prison
+    permission: jugement.st.use

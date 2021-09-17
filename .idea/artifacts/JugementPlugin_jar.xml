@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JugementPlugin:jar">
+    <output-path>D:/Jeux/Minecraft/Serveur Minecraft/Serveur test/plugins</output-path>
+    <root id="archive" name="JugementPlugin.jar">
+      <element id="module-output" name="JugementPlugin" />
+    </root>
+  </artifact>
+</component>
